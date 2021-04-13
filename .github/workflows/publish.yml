@@ -1,4 +1,4 @@
-name: Check version and publish package
+name: Publish package
 
 on:
   push:
