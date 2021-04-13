@@ -1,6 +1,6 @@
 {
   "name": "@soph2k/sophs-test-package",
-  "version": "1.6.16-alpha",
+  "version": "1.6.16",
   "description": "This is a test",
   "main": "index.js",
   "scripts": {
