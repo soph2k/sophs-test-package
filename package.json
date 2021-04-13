@@ -1,0 +1,15 @@
+{
+  "name": "@soph2k/sophs-test-package",
+  "version": "1.6.16-alpha",
+  "description": "This is a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefan Haubold <stefan@haubi.com>",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.20.2",
+    "tar": "^2.2.2"
+  }
+}
